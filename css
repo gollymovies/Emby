@@ -1,0 +1,361 @@
+html:root {
+  --theme-primary-color:#B41803;
+  --theme-accent-color:#B41803;
+  --theme-primary-color-lightened:#B41803;
+  --theme-accent-text-color:#B41803;
+  --theme-icon-focus-background: #262628;
+  --docked-drawer-background: #2F2F30;
+  --theme-text-color: #ffffff;
+  --header-blur-background: #2F2F30;
+  --theme-background: #242125;
+  --theme-body-secondary-text-color: #ffffff;
+  --card-background: #2F2F30;
+  --theme-text-color-opaque: #ffffff;
+  --theme-body-secondary-text-color: #C3C3C3;
+}
+
+
+.btnHeaderPremiere { 
+  display: none ! important; 
+}
+
+.pageTitleWithDefaultLogo {
+  background-image: url(https://www.dropbox.com/s/871caw9u4udnsko/logo.png?dl=1)!important;
+}
+
+.skinHeader-withBackground {
+  background-color: #2F2F30!important; 
+}
+
+#txtCustomCss.textarea-mono.emby-textarea {
+  background: #2F2F30;
+}
+
+p#pUpToDate i.md-icon {
+  background-color: #B41803 !important; 
+}
+
+#txtLoginDisclaimer{
+  background: #2F2F30;
+}
+
+#selectLocalizationLanguage{
+  background: #2F2F30;
+}
+
+#txtCachePath {
+  background: #2F2F30;
+}
+
+.emby-select-withcolor.emby-select {
+  background: #2F2F30;
+}
+
+.txtNewPasswordConfirm.emby-input {
+  background: #2F2F30;
+}
+
+.txtNewPassword.emby-input {
+  background: #2F2F30;
+}
+
+.txtCurrentPassword.emby-input {
+  background: #2F2F30;
+}
+
+.txtConnectUserName.emby-input {
+  background: #2F2F30;
+}
+
+.txtUserName.emby-input {
+  background: #2F2F30;
+}
+
+#txtSupporterKey.emby-input {
+  background: #2F2F30;
+}
+
+#txtValue.emby-input {
+  background: #2F2F30;
+}
+
+#txtDirectoryPickerPath.emby-input { 
+   background: #2F2F30;
+}
+
+#txtNetworkPath.emby-input { 
+   background: #2F2F30;
+}
+
+#txtLanNetworks.emby-input { 
+   background: #2F2F30;
+}
+
+#txtLocalAddress.emby-input {
+  background: #2F2F30;
+}
+
+#txtPortNumber.emby-input {
+  background: #2F2F30;
+}
+
+#txtHttpsPort.emby-input {
+  background: #2F2F30;
+}
+
+#txtExternalAddressFilter.emby-input {
+  background: #2F2F30;
+}
+
+#txtPublicPort.emby-input {
+  background: #2F2F30;
+}
+
+#txtPublicHttpsPort.emby-input {
+  background: #2F2F30;
+}
+
+#txtDdns.emby-input {
+  background: #2F2F30;
+}
+
+#txtCertificatePath.emby-input {
+  background: #2F2F30;
+}
+
+#txtCertPassword.emby-input {
+  background: #2F2F30;
+}
+
+#txtRemoteClientBitrateLimit.emby-input {
+  background: #2F2F30;
+}
+
+#txtTranscodingTempPath.emby-input {
+  background: #2F2F30;
+}
+
+#txtDownMixAudioBoost.emby-input {
+  background: #2F2F30;
+}
+
+#txtH264Crf.emby-input {
+  background: #2F2F30;
+}
+
+#txtSyncTempPath.emby-input {
+  background: #2F2F30;
+}
+
+#txtUploadSpeedLimit.emby-input {
+  background: #2F2F30;
+}
+
+#txtAddic7edUsername.emby-input {
+  background: #2F2F30;
+}
+
+#txtAddic7edPassword.emby-input {
+  background: #2F2F30;
+}
+
+#txtNumTrailers.emby-input {
+  background: #2F2F30;
+}
+
+#txtCustomIntrosPath.emby-input {
+  background: #2F2F30;
+}
+
+#txtCodecIntrosPath.emby-input {
+  background: #2F2F30;
+}
+
+#txtOpenSubtitleUsername.emby-input {
+  background: #2F2F30;
+}
+
+#txtOpenSubtitlePassword.emby-input {
+  background: #2F2F30;
+}
+
+.txtUrl.emby-input {
+  background: #2F2F30;
+}
+
+#txtCustomName.emby-input {
+  background: #2F2F30;
+}
+
+.focuscontainer.dialog.actionSheet.dialog-blur.actionsheet-padded-bottom.actionsheet-padded-top.dialog-transformorigin-lefttop.opened.dialog-blur {
+  color: #ffffff;
+  background: #2F2F30;
+}
+
+#txtUploadPath.emby-input {
+  background: #2F2F30; 
+}
+
+#txtName.emby-input {
+  background: #2F2F30; 
+}
+
+#txtMaxAllowedBitrate.emby-input {
+  background: #2F2F30; 
+}
+
+#txtMusicStreamingTranscodingBitrate.emby-input {
+  background: #2F2F30; 
+}
+
+#txtInput.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIdFriendlyName.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIdManufacturer.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIdManufacturerUrl.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIdModelName.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIdModelNumber.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIdModelDescription.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIdModelUrl.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIdSerialNumber.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIdDeviceDesription.emby-input {
+  background: #2F2F30; 
+}
+
+#txtAlbumArtPn.emby-input {
+  background: #2F2F30; 
+}
+
+#txtAlbumArtMaxWidth.emby-input {
+  background: #2F2F30; 
+}
+
+#txtAlbumArtMaxHeight.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIconMaxWidth.emby-input {
+  background: #2F2F30; 
+}
+
+#txtIconMaxHeight.emby-input {
+  background: #2F2F30; 
+}
+
+#txtInfoFriendlyName.emby-input {
+  background: #2F2F30; 
+}
+
+#txtInfoManufacturer.emby-input {
+  background: #2F2F30; 
+}
+
+#txtInfoManufacturerUrl.emby-input {
+  background: #2F2F30; 
+}
+
+#txtInfoModelName.emby-input {
+  background: #2F2F30; 
+}
+
+#txtInfoModelNumber.emby-input {
+  background: #2F2F30; 
+}
+
+#txtInfoModelDesription.emby-input {
+  background: #2F2F30; 
+}
+
+#txtInfoModelUrl.emby-input {
+  background: #2F2F30; 
+}
+
+#txtInfoSerialNumber.emby-input {
+  background: #2F2F30; 
+}
+
+#txtProtocolInfo.emby-input {
+  background: #2F2F30; 
+}
+
+#txtXDlnaCap.emby-input {
+  background: #2F2F30; 
+}
+
+#txtXDlnaDoc.emby-input {
+  background: #2F2F30; 
+}
+
+#txtSonyAggregationFlags.emby-input {
+  background: #2F2F30; 
+}
+
+#txtClientDiscoveryInterval.emby-input {
+  background: #2F2F30; 
+}
+
+#txtBlastInterval.emby-input {
+  background: #2F2F30; 
+}
+
+#txtRecordingPath.emby-input {
+  background: #2F2F30; 
+}
+
+#txtMovieRecordingPath.emby-input {
+  background: #2F2F30; 
+}
+
+#txtSeriesRecordingPath.emby-input {
+  background: #2F2F30; 
+}
+
+#txtPrePaddingMinutes.emby-input {
+  background: #2F2F30; 
+}
+
+#txtPostPaddingMinutes.emby-input {
+  background: #2F2F30; 
+}
+
+#txtPostProcessor.emby-input {
+  background: #2F2F30; 
+}
+
+#txtPostProcessorArguments.emby-input {
+  background: #2F2F30; 
+}
+
+toggleLabel.emby-toggle:checked+.toggleLabel::before {
+  background: #fff;
+}
+
+.mainDrawer.focuscontainer-y.scrollY.hiddenScrollY-hover.scrollY-mini.drawer-open.mainDrawer {
+  opacity: 96%;
+}
